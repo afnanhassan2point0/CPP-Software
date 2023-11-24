@@ -1,2 +1,2 @@
 # CPP-Software
-.cpp mini apps made with C++ for study purposes &amp; sharing with fellows
+Made by C++, very simple, basic, non-featured, tiny little small Programs just for the fun on Educational purposes.
